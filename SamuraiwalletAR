@@ -8,37 +8,25 @@ Bitcoin has been taking the world by storm over the past few years. Slowly but s
 It's no surprise to anyone that the Arab world has for decades been ravaged by social, political, economical instability, and human rights violations, Bitcoin is the escape ticket that people accross the region need to 
 vote out of the current situation. [^1]
 
-This article will explore why privacy on the blockchain matters, particularly for users of Bitcoin who are in the Arab World.
-
-Throughout this article and particularly towards the end, we will look at Samourai Wallet and some of the features it offers that can improve privacy. Samourai is a privacy-focused Bitcoin wallet to which I am proud to have contributed.
-
-Other services and wallets exist, and you are encouraged to Do Your Own Research (DYOR) and find what is best for you.
-
-Samourai Wallet and their Whirlpool feature are simply what I am most familiar with, so that will be what I reference most of the time in this article.
+This article will explore why privacy on the blockchain matters, particularly for users of Bitcoin who are in the Arab World. At the end of this article we will look at Samourai, a privacy-focused Bitcoin wallet to which I am proud to have contributed, and the features it offers that can improve privacy. Other services and wallets exist, and you are encouraged to Do Your Own Research (DYOR) and find what is best suited for your own skill level. Samourai Wallet and their Whirlpool feature are simply what I am most familiar with, so that will be what I reference most of the time in this article.
 
 So, what is privacy in Bitcoin, and why does it matter? 
 
-Privacy, in a nutshell, is the obfuscation or concealment of information from others.
-When you put curtains on your windows at home, you are doing so because you want to enjoy privacy.
+Privacy, in a nutshell, is the obfuscation or concealment of information from others. When you put curtains on your windows at home, you are doing so because you want to enjoy privacy. It doesn't necessarly mean you have anything to hide, but no one needs to know what goes on inside your own home, just like no one needs to know how you use your money. 
 
-Likewise, privacy is paramount in Bitcoin. Notably, this is because Bitcoin features an open and public blockchain. Anyone can view any transaction on the Bitcoin blockchain. Bitcoin does not use legal names in transactions, so there is a level of pseudonymity given by Bitcoin despite having a public and open blockchain.
+Likewise, privacy is paramount in Bitcoin. Notably, this is because Bitcoin features an open and public blockchain. Anyone can view any transaction on the Bitcoin blockchain. Bitcoin does not use legal names in transactions, so there is a level of pseudonymity given by Bitcoin despite having a public and open blockchain. There are still many ways in which the public blockchain in Bitcoin lends itself towards surveillance and others keeping tabs on your balances and transaction history. This is both a privacy and a security concern. Therefore it is on the user to take the right precautions to ensure he's using Bitcoin in a way that doesn't put his security at risk.
 
-There are still many ways in which the public blockchain in Bitcoin lends itself towards surveillance and others keeping tabs on your balances and transaction history. This is doubly a privacy and a security concern.
+- If someone knows how much Bitcoin you have, you can become a target. 
+- If someone knows what transactions you are sending on the P2P Bitcoin network, you can become a target.
+- If someone doesn't approve of your transactions, you can become a target.
 
-If someone knows how much Bitcoin you have, you can become a target. If someone knows what transactions you are sending on the P2P Bitcoin network, and they do not like those transactions, you can become a target.
+Who might target you? 
+- It may be the government (corrupt political factions, overzealous regulatory agencies, an authoritarian state, etc.).
+- It could also be other nefarious actors that spy on you, such as organized crime elements like for-profit kidnappers and ideological enemies with intentions to harm you.
 
-Who might target you? It may be the government (corrupt political factions, overzealous regulatory agencies, an authoritarian state, etc.).
+There are a couple different good examples to consider, we will focus on Lebanon given the recent events that took place there, and it's relevance to the topic at hand. 
 
-It could also be other nefarious actors that spy on you, such as organized crime elements like for-profit kidnappers and ideological enemies with intentions to harm you.
-
-
-Let's look at the example of Lebanon for now. There are a couple different good examples to consider:
-
-Example 1: The anti-corruption protester in Beirut
-
-Imagine you, as many Lebanese were recently and are currently, are protesting against the corruption and debasement of the Lira in Lebanon.
-When this was at its peak, loyalists to the political factions that make up the Lebanese government went out in plain clothes to monitor the protests.
-
+Imagine you, as many Lebanese were recently and are currently, protesting against the corruption and debasement of the Lira in Lebanon. When this was at its peak, loyalists to the political factions that make up the Lebanese government went out in plain clothes to monitor the protests.
 
 They noted the names and faces of protestors. They beat people in the streets. People died.
 
@@ -46,52 +34,40 @@ They noted the names and faces of protestors. They beat people in the streets. P
 Protestors clashed with and were attacked by loyalists to parties and factions within Lebanon's government.
 
 
+Now imagine this same situation, only you also donated some BTC to an anti-corruption organization in Lebanon that is critical of rulling parties. Now let's say that the donation website gets hacked by loyalists to a corrupt group of government/party/militia loyalists.
 
-Now imagine this same situation, only you also donated some BTC to an anti-corruption organization in Lebanon that is critical of corrupt parties in your country. Now let's say that the donation website gets hacked by loyalists to a corrupt group of government/party/militia loyalists.
-
-They now have your Bitcoin transaction among the hacked data that they take. Feasibly, they could, over time, attribute that transaction to you. Especially if your on-chain privacy is not good.  
-
-Would you feel safe having done this? Would you wish your Bitcoin transaction was more private on the blockchain?
+They now have your Bitcoin transaction among the hacked data that they take. Feasibly, they could, over time, attribute that transaction to you. Especially if your on-chain privacy is not good. Would you feel safe in this scenario? or would you wish your Bitcoin transaction was more private on the blockchain?
 
 If this is easy enough to understand, you are already beginning to know why privacy matters in general and specifically on the Bitcoin blockchain.
 
 Let us examine another example. However, let's stick with the same analogy for simplicity's sake:
 
-You are an anti-corruption activist, protesting in the streets of Beirut and making your voice heard. You document this on social media to spread awareness and raise support for your movement. You post a Bitcoin address to your social media profile. 
+You are an anti-corruption activist, protesting in the streets of Beirut and making your voice heard. You document this on social media to spread awareness and raise support for your movement. You post a Bitcoin address to your social media profile. This static Bitcoin address doesn't change. It's up online and attributed to your pseudonymous identity as an activist and public persona. However, this address is also published on your typical social media profile, with your legal name and a friends list with legitimate friends and family. 
 
-This static Bitcoin address doesn't change. It's up online and attributed to your pseudonymous identity as an activist and public persona. However, this address is also published on your typical social media profile, with your legal name and a friends list with legitimate friends and family. 
+Because you've made the prevalent but somewhat fatal error of publishing and reusing a static address to receive your donations, you've given up a critical piece of information and engaged in a practice that can make it easier for others to identify you on the blockchain. A hostile group or individual can correlate the same address as belonging to two different online identities. With this info, they can establish a link that you are the bothersome "activist" and deal with you accordingly (often through violence or intimidation). 
 
-Because you've made the prevalent but somewhat fatal error of publishing and reusing a static address to receive your donations, you've given up a critical piece of information and engaged in a practice that can make it easier for others to identify you on the blockchain. 
+So what's the solution? 
 
-A hostile group or individual can correlate the same address as belonging to two different online identities. With this info, they can establish a link that you are the bothersome "activist" and deal with you accordingly (often through violence or intimidation). 
+Could you conceal and obfuscate your transaction history on the blockchain so that others cannot see what you are doing in a given transaction. How can you even do that when the blockchain and every transaction are entirely public and open to all to view? 
 
+These are all good question that we will dive into in this series by exploring some of the features available in Samourai Wallet and how they can help improve on-chain privacy. If you do not want to wait for my explanations and prefer to do your own research, consider checking out Samourai's documentation at docs.samourai.io. 
 
-So, what if you could conceal and obfuscate your transaction history on the blockchain so that others cannot see what you are doing in a given transaction. How can you even do that when the blockchain and every transaction are entirely public and open to all to view? 
-
-This is a good question and one that we will dive into in the next installment in this series by exploring some of the features available in Samourai Wallet and how they can help improve on-chain privacy. 
-
-If you do not want to wait for my explanations and prefer to do your own research, consider checking out Samourai's documentation at docs.samourai.io. 
-
-So. Given the problem of a public blockchain where anyone can view transactions and track activity, how can one attempt to achieve meaningful on-chain privacy? Here are a few tips based on the feature-set available in Samourai Wallet. 
-
-Note: There are possibly other features in other wallets that can be helpful. Samourai is simply what I focus on here.
+Given the problem of a public blockchain where anyone can view transactions and track activity, how can one attempt to achieve meaningful on-chain privacy? Here are a few tips based on the feature-set available in Samourai Wallet. 
 
 1) NEVER reuse Addresses
 Whenever you reuse an address in Bitcoin, you harm your privacy. There are no two ways about this. Address reuse is terrible for your privacy. Reusing addresses is a standard practice among some users of Bitcoin, but it is a bad practice. When you reuse an address, you give other parties insight into your transaction history and how much BTC you have or have had in the past. This can be very dangerous. 
 
-Samourai Wallet will constantly generate brand new, "fresh" receive addresses. This is to avoid address reuse, and it goes a long way. 
+Samourai Wallet will constantly generate brand new, "fresh" receive addresses. This is to avoid address reuse!
 
-In addition to this, Samourai also offers the premium PayNyms feature, which is their implementation of BIP47 Reusable Payment Codes. BIP47 Reusable Payment Codes give you a static "Payment Code" that you can share just like a regular bitcoin address. Others connect to this "Payment Code" via a notification transaction and can send it to you without fear of reusing addresses or needing to constantly ask you for new, fresh, received addresses. 
+In addition to this, Samourai also offers the premium PayNyms feature, which is their implementation of BIP47 Reusable Payment Codes. BIP47 Reusable Payment Codes give you a static "Payment Code" that you can share just like a regular bitcoin address. Others connect to this "Payment Code" via a notification transaction and can send it to you without fear of reusing addresses or needing to constantly ask you for new, fresh, receive addresses. 
 
-Unlike reusing a regular Bitcoin address, the same privacy risks do not exist with BIP47 Reuseable Payment Codes. It is a massive improvement to the existing way that many use Bitcoin on-chain today. 
+Unlike reusing a regular Bitcoin address, the same privacy risks do not exist with BIP47 Reuseable Payment Codes. It is a significant improvement to the existing way that many use Bitcoin on-chain today. 
 
 2) Obfuscate on-chain activity in spend transactions
 
 Using services like Samourai's STONEWALL and the Collaborative Transactions available in Cahoots two-party transactions (STONEWALLx2, Stowaway), you can obfuscate your transaction history and break the heuristics/assumptions used by blockchain analysis organizations and hostile individuals or groups that spy on your every move. It is a vital tool in any person's arsenal, truly needing privacy on-chain. 
 
-
 3) Break deterministic on-chain links with Whirlpool
-
 
 Whirlpool is Samourai's ZeroLink CoinJoin implementation. It can be used to make transactions sometimes colloquially known as "mixes" but properly known as CoinJoins. 
 
@@ -101,11 +77,14 @@ Whirlpool is different from just any "CoinJoin." Whirlpool puts specific standar
 
 This article hasn't really been able to go into too much detail on the technical side of things and is already a lot of information for new users to understand and remember. For that reason, this article will likely be part of a series of articles covering Bitcoin Privacy and Samourai Wallet.
 
+In the following articles I will cover the following topics: 
+1- 
+2- 
+3- 
+
 For more info on these features and tools, I've gathered some links that can be helpful. 
 
-Unfortunately, at the time being, these resources are only available in English, as far as I know, for now. 
-
-Despite this, the community of Samourai users is growing every day. You may soon find additional and more comprehensive guides available natively in Arabic! Or if you can speak both English AND Arabic, maybe YOU can translate them yourself!
+Unfortunately, at the time being, these resources are only available in English, as far as I know, for now. However, you as a reader can contribute to the translation of these resources to ensure that more people cna get access to this knowledge to matter where they are. 
 
 With Peace, 
 
